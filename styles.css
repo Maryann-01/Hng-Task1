@@ -21,6 +21,7 @@ color:rgb(245, 94, 245);
 .user-info img{
     width:300px;
     height:300px;
+    border-radius: 50%;
 }
 .time-info{
     background-color: rgb(245, 94, 245);
